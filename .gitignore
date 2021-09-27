@@ -1,0 +1,11 @@
+#pycache stuff
+*.pyc
+.pytest_cache
+__pycache__
+
+#Latex stuff
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
